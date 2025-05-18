@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastFood", "FastFood\FastFood.csproj", "{D6BBB9C8-F84D-44F6-97B8-96D859729ECD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6BBB9C8-F84D-44F6-97B8-96D859729ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6BBB9C8-F84D-44F6-97B8-96D859729ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6BBB9C8-F84D-44F6-97B8-96D859729ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6BBB9C8-F84D-44F6-97B8-96D859729ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F532F05-D5B0-48E2-99CF-92B90EF1D810}
+	EndGlobalSection
+EndGlobal
